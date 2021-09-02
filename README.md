@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=welcome to prarikska coding & programming)](https://git.io/typing-svg)
++[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=  welcome to prarikska coding & programming)](https://git.io/typing-svg)
 
 ### Hi 👋 I Am Pratiksha Hake.
 
