@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=welcome to Pratiksha's GitHub)](https://git.io/typing-svg)
+pratikshahake26 README.md 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A93F7&size=25&center=true&width=600&lines=Welcome+to+My+Repository)](https://git.io/typing-svg)
 
 
-
- 
  Hi 👋 I am Pratiksha
 
 <!--
