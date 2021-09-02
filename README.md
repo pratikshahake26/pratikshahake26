@@ -1,9 +1,10 @@
-pratikshahake26 README.md 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A93F7&size=25&center=true&width=600&lines=Welcome+to+My+Repository)](https://git.io/typing-svg)
 
 
- Hi 👋 I am Pratiksha
+ <h1 align="center">Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px"> I'm Pratiksha Hake</h1>
+
+
 
 <!--
 **pratikshahake26/pratikshahake26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
