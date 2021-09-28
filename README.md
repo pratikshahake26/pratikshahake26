@@ -10,8 +10,8 @@
 **pratikshahake26/pratikshahake26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on how to get knowledge of coding & programming.
-- 🌱 I’m currently learning C++ language, DSA.
+- 🌱 I’m currently learning java, DSA.
 - 👯 I’m looking to collaborate on A Coding blog.
-- 💬 Ask me about HTML,CSS and python.
+- 💬 Ask me about java.
 - 📫 How to reach me: pratikshahake26062002@gmail.com
 
