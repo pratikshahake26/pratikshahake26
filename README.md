@@ -11,9 +11,9 @@
 **pratikshahake26/pratikshahake26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on how to get knowledge of coding & programming as per full stack developer.
-- 🌱 I’m currently learning spring, spring boot.
+- 🌱 I’m currently learning ReactJs.
 - 👯 I’m looking to collaborate on A Coding blog.
-- 💬 Ask me about core java, DBMS (MySQL, SQL),spring framework.
+- 💬 Ask me about core java, DBMS (MySQL, SQL),Web Developer.
 - 📫 How to reach me: pratikshahake26062002@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
