@@ -11,10 +11,10 @@
 **pratikshahake26/pratikshahake26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on how to get knowledge of coding & programming as per full stack developer.
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning SpringBoot.
 - 👯 I’m looking to collaborate on A Coding blog.
 - 💬 Ask me about core java, DBMS (MySQL, SQL),Web Development.
-- 📫 How to reach me: pratikshahake26062002@gmail.com
+- 📫 How to reach me: pratikshahake2024@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/linkedin.com/in/pratiksha2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratiksha2024" height="30" width="40" /></a>
